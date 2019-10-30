@@ -9,7 +9,6 @@ Qinlun Luan, qluan@wpi.edu
 ## HumanActivity
 1. only the 3 original features (mean, PCA and Standard deviation)?
 
-* Answer
  - classifier: Cubic SVM
  - accuracy: 96.7%
 
